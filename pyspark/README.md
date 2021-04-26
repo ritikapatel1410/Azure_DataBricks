@@ -9,3 +9,4 @@
 * Reference :
   * https://towardsdatascience.com/sentiment-analysis-on-streaming-twitter-data-using-spark-structured-streaming-python-fc873684bfe3
   * https://www.youtube.com/watch?v=ujId4ipkBio&t=1331s 
+  * https://realpython.com/python-sockets/
