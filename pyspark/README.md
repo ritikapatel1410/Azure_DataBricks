@@ -6,7 +6,6 @@
   * json : JavaScript Object Notation (JSON) is a standardized format commonly used to transfer data as text that can be sent over a network. JSON represents objects as name/value pairs, just like a Python dictionary.
 
 
-* Reference :
-  * https://towardsdatascience.com/sentiment-analysis-on-streaming-twitter-data-using-spark-structured-streaming-python-fc873684bfe3
-  * https://www.youtube.com/watch?v=ujId4ipkBio&t=1331s 
-  * https://realpython.com/python-sockets/
+* **Reference :**
+  * **google link :** https://docs.google.com/document/d/1Xo-Y0xX7KcfqLPCYIUUuc_gDnr2F-GpYj2okBZ_ozm0/edit
+  * **youtube link:** https://docs.google.com/document/d/1uaBb4Z6J43lZo75sQ2P5MDs9GlZOE50zldST4bLqRFA/edit
