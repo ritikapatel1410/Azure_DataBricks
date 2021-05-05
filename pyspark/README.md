@@ -10,3 +10,7 @@
   * **google link :** https://docs.google.com/document/d/1Xo-Y0xX7KcfqLPCYIUUuc_gDnr2F-GpYj2okBZ_ozm0/edit
   * **youtube link :** https://docs.google.com/document/d/1uaBb4Z6J43lZo75sQ2P5MDs9GlZOE50zldST4bLqRFA/edit
   * **document link :** https://docs.google.com/document/d/1rat9TbbdkKKhpM8ptk_FiBt5OvNKum9W86YnQ35zUeE/edit#
+  * **my youtube video link :** 
+    * **sentiment analysis using Azure :**
+      * **part1 :** https://www.youtube.com/watch?v=lsZozT_Yn5s
+      * **part2 :** https://www.youtube.com/watch?v=WgzoNwwgioU
