@@ -19,5 +19,9 @@
 * Reference:
   * **google link :** https://docs.google.com/document/d/1hLWVfycomCgAYmi56EETDZZOd9iim8wOpz6Sua00gmc/edit
   * **youtube link :** https://docs.google.com/document/d/14Poy_FU3MJu3w8Q56-RnMlmSCAc4xBlIvwM3mpeefTc/edit
-  * **doc :** https://docs.google.com/document/d/1twoXx_dapY5mC527v4egmZNHMlU4dgLWPXoFOMKtvdo/edit#heading=h.6tfffquh9sg4
+  * **document link :** https://docs.google.com/document/d/1twoXx_dapY5mC527v4egmZNHMlU4dgLWPXoFOMKtvdo/edit#heading=h.6tfffquh9sg4
+  * **my youtube video link :** 
+    * **part 1 :** https://www.youtube.com/watch?v=il9HRV43FWE
+    * **part 2 :** https://www.youtube.com/watch?v=ZqyQSPrwHPA
+    
   
