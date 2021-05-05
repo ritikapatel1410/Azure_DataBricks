@@ -17,8 +17,7 @@
 
 
 * Reference:
-  * https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
-  * https://community.cloud.databricks.com/?o=7815649542122533#notebook/1045779852365985
-  * https://www.youtube.com/playlist?list=PL50mYnndduIGmqjzJ8SDsa9BZoY7cvoeD
-  * https://www.youtube.com/watch?v=WN6ovPBk4uM&feature=youtu.be
-  * https://www.youtube.com/watch?v=5FX4vMvduEg&feature=youtu.be
+  * **google link :** https://docs.google.com/document/d/1hLWVfycomCgAYmi56EETDZZOd9iim8wOpz6Sua00gmc/edit
+  * **youtube link :** https://docs.google.com/document/d/14Poy_FU3MJu3w8Q56-RnMlmSCAc4xBlIvwM3mpeefTc/edit
+  * **doc :** https://docs.google.com/document/d/1twoXx_dapY5mC527v4egmZNHMlU4dgLWPXoFOMKtvdo/edit#heading=h.6tfffquh9sg4
+  
