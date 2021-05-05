@@ -10,3 +10,5 @@
 *.csv#
 # ignore .vscode
 *.vscode
+# ignore .vs
+*.vs
